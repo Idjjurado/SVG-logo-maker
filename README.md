@@ -15,6 +15,10 @@ I ended up using quite a few different things!
 
 ## Credit
 Ismael Jimenez: https://github.com/Idjjurado
+Used multiple class peers to assist in code review and assistance. Including previous students within the 
+bootcamp!
+
+Theresa Cao: https://github.com/treecao
 
 ## License
 MIT License (see repo)
