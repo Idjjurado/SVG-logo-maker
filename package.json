@@ -16,7 +16,8 @@
   },
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "prettier": "^3.0.0"
   },
   "author": "Ismael Jimenez-Jurado",
   "license": "MIT",
